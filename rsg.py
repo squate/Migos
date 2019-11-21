@@ -68,7 +68,8 @@ def main():
     print("INTRO (Quavo):")
     for i in range(sents):
         product = rsg.randomSentence('<Sent>')
-    print("\nOffset!")
+    print("\nVERSE 2(OFFSET)\nOffset!")
     for i in range(sents):
         product = rsg.randomSentence('<Sent>')
 main()
+
