@@ -43,7 +43,7 @@
 
 |<Lib~>{gas; <Drug>; <Lib>; drugs; wrow; oof; <Cocaine>; whew}
 
-|<ThingCokeCouldveBeen>{it's oatmeal; it owes me; it's stir fry; my job; a savory stew; a potion; a natural; a chef;}
+|<ThingCokeCouldveBeen>{it's oatmeal; it owes me; it's stir fry; my job; a savory stew; a potion; a natural; a chef}
 
 
 #Violence subset grammar
